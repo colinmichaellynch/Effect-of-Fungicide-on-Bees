@@ -36,4 +36,6 @@ The use of fungicides is widespread within the US agricultural industry, and yet
 
 * Ultimately, Pristine increases the foraging time for bees, decreasing the probability that they return to the nest. This effect is stonger at higher temperatures. This interactions warns us that the effects of fungicide on our pollinators could get worse with global warming and we should limit or more tightly control their use. 
 
+## Acknowledgements
 
+I would like to thank my collaborator Nicole Desjardins for collecting this data and for developing the project ida.
