@@ -32,7 +32,7 @@ The use of fungicides is widespread within the US agricultural industry, and yet
   - All effects were significant except for the main effect of temperature
   - Having pristine increases the time it takes for bees to return to the hive. Temperature alone has no effect, but higher temperatures results in longer foraging times for bees with pristine and shorter times without pristine. 
   
-![](/Images/Rplot1.png)
+![](/Images/Rplot01.png)
 
 * Ultimately, Pristine increases the foraging time for bees, decreasing the probability that they return to the nest. This effect is stonger at higher temperatures. This interactions warns us that the effects of fungicide on our pollinators could get worse with global warming and we should limit or more tightly control their use. 
 
