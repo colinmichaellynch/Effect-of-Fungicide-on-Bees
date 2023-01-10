@@ -8,7 +8,7 @@ Performed Survival Analysis on Bee Foraging Experiment to Estimate the Effect of
 
 ## Background
 
-The use of fungicides is widespread within the US agricultural industry, and yet its ecological effects are not well studied. My collaborator Nicole Desjardins wanted determine the effect of fungicide on an important pollinator the European Honey Bee by exposing some colonies to the fungicide Pristine and then allowing them to forage for food. She then tracked which bees came back to the hive, when they came back, and she also recorded ecological factors such as temperature at the time of arrival. She compared these results to a control group which did not recieve pristine. I was recruited to determine if Pristine did in fact have an effect on bees and determine which other factors may have contributed to the bee's arrival time. 
+The use of fungicides is widespread within the US agricultural industry, and yet its ecological effects are not well studied. My collaborator Nicole Desjardins wanted determine the effect of fungicide on an important pollinator the European Honey Bee by exposing some colonies to the fungicide Pristine and then allowing them to forage for food. She then tracked which bees came back to the hive, when they came back, and she also recorded ecological factors such as temperature at the time they left the hive. She compared these results to a control group which did not recieve pristine. I was recruited to determine if Pristine did in fact have an effect on bees and determine which other factors may have contributed to the bee's arrival time. 
 
 ## Methods
 
@@ -31,6 +31,8 @@ The use of fungicides is widespread within the US agricultural industry, and yet
   - The model with an interaction had the lowest AIC/BIC value
   - All effects were significant except for the main effect of temperature
   - Having pristine increases the time it takes for bees to return to the hive. Temperature alone has no effect, but higher temperatures results in longer foraging times for bees with pristine and shorter times without pristine. 
+
+* In the following figure, A) shows the percentage of outgoing bees returning to the nest during a 3 hour period. Light blue shows the control group and dark blue shows the fungicide group. B) Shows the temperature at which the bees left the nest and whether or not they returned. C) If the bees returned, how long did it take for them to fly back at different starting temperatures. 
   
 ![](/Images/Rplot01.png)
 
